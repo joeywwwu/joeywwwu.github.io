@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Wenwei Wu's Site"
@@ -7,12 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: contact.qmd
-        text: Contact
+      - about.qmd
 
 format:
   html:
-    theme: dark
+    theme: cosmo
     css: styles.css
     toc: true
 
