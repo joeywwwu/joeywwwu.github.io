@@ -7,10 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme: dark
     css: styles.css
     toc: true
+

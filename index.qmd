@@ -1,7 +1,5 @@
 ---
-title: "."
+title: "Joey Wu"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Interned at KPMG, EY-Parthenon; studied at UVA; led Musicow's business; skilled in digital marketing, analytics, and business development.
